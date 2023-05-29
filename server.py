@@ -6,4 +6,4 @@ for i in range(10):
     print(x)
     x += i
 
-print("Output:", x)
+print("The result is", x)
